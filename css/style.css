@@ -1,0 +1,22 @@
+*{
+    margin: none;
+    padding: none;
+    border: none;
+    box-sizing: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    background-color: black;
+}
+header{
+    background-color: gray;
+}
+main{
+    background-color: rgb(192, 165, 165);
+}
+footer{
+    background-color: rgb(75, 66, 100);
+}
